@@ -8,8 +8,9 @@
 </p>
 <h2 id="objetivo">Objetivo:</h2>
 <p>
-Um projeto realizado afim de comemorar o inicio de outubro e com isso a chegada do clima de Halloween. Particulamente adoro essa época do ano então está ai a minha escolha.
+Um projeto realizado a fim de comemorar o inicio de outubro e com isso a chegada do clima de Halloween. Particulamente adoro essa época do ano então está ai a minha escolha.
 </p>
+> A project carried out in order to celebrate the beginning of October and with it the arrival of the Halloween mood. I particularly love this time of year so that's my choice.
 <h2 id="tecnologias">Tecnologias:</h2>
 <p>
 Projeto feito com CSS3, HTML5 e JavaScript Vanilla.
