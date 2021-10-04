@@ -2,8 +2,11 @@ const daysEl = document.getElementById("days");
 const hoursEl = document.getElementById("hours");
 const minsEl = document.getElementById("mins");
 const secondsEl = document.getElementById("seconds");
+const title = document.getElementsByTagName("h1")[0];
 
-const halloween = `31 Oct ${new Date().getFullYear()}`;
+const currYear = new Date().getFullYear();
+const halloween = `31 Oct ${currYear}`;
+title.innerHTML = `Halloween ${currYear}`;
 
 function countdown(){
     const halloweenDate = new Date(halloween);
